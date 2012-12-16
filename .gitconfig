@@ -1,3 +1,8 @@
 [user]
 	name = Katsunori Ogane
 	email = katsunori@ogane.net
+[core]
+	editor = vim
+	pager =
+[color]
+	ui = true
